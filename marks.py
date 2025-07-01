@@ -1,0 +1,1 @@
+print('The marks is 92')
